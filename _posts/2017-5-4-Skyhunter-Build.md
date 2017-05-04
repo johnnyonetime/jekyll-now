@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Skyhunter Build
 published: true
 ---
 ## To Do List
